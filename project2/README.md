@@ -48,20 +48,7 @@ streamlit run app/app.py
 ```
 Open [http://localhost:8501](http://localhost:8501) in your browser to analyze emails.
 
-### 🖥️ Streamlit Web Application Interface
 
-Below are screenshots of the running Streamlit web application showing legitimate and phishing classification results:
-
-#### Legitimate (Safe) Email Classification:
-![Legitimate Email Screenshot](./reports/images/screenshot_safe.png)
-
-#### Phishing Email Detection Warning:
-![Phishing Email Screenshot](./reports/images/screenshot_phishing.png)
-
-#### Cross-Model Prediction Comparison:
-![Cross-Model Prediction Screenshot](./reports/images/screenshot_comparison.png)
-
----
 
 ## 📊 Comparative Performance Results
 
