@@ -48,7 +48,7 @@ streamlit run app/app.py
 ```
 Open [http://localhost:8501](http://localhost:8501) in your browser to analyze emails.
 
-<img width="1913" height="861" alt="image" src="https://github.com/user-attachments/assets/3f56ac37-1025-4c00-bcf0-c4ffc361a9cd" />
+
 
 
 <img width="1913" height="861" alt="image" src="https://github.com/user-attachments/assets/5110bbb8-3946-44b7-a289-199c61d3d746" />
