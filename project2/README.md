@@ -88,13 +88,10 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to access th
 Below are screenshots of the running Streamlit web application showing legitimate and phishing classification results:
 
 #### Legitimate (Safe) Email Classification:
-![Legitimate Email Screenshot](./reports/images/screenshot_safe.png)
+<img width="1913" height="861" alt="image" src="https://github.com/user-attachments/assets/5110bbb8-3946-44b7-a289-199c61d3d746" />
 
 #### Phishing Email Detection Warning:
-![Phishing Email Screenshot](./reports/images/screenshot_phishing.png)
-
-#### Cross-Model Prediction Comparison:
-![Cross-Model Prediction Screenshot](./reports/images/screenshot_comparison.png)
+<img width="1901" height="862" alt="image" src="https://github.com/user-attachments/assets/a5c889fe-2e0d-4704-acbf-a691a4b38b0a" />
 
 ---
 
