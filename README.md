@@ -1,8 +1,7 @@
 # IICT Internship Projects
 
-This repository contains projects completed during the IICT Internship.
+This repository contains the projects completed during the IICT Internship.
 
-## Projects Directory
+## Project Directory
 
-*   **[Project 1: AI-Powered Fake News Detection Using Text Classification](./project1)**: A machine learning pipeline from scratch to classify articles as real or fake, with live scraping using NewsAPI.
-*   **[Project 2: AI-Driven Phishing Email Detection Using NLP](./project2)**: A machine learning system that automatically detects phishing emails using text analysis and metadata features.
+*   **[Project 2: AI-Driven Phishing Email & Fake News Detection Suite](./project2)**: A unified machine learning system that automatically detects phishing emails and classifies fake news using text analysis, metadata features, and NewsAPI scraping.

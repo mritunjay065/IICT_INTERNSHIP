@@ -1,6 +1,6 @@
-# AI Security & Information Integrity Suite
+# Project 2: AI-Driven Phishing Email & Fake News Detection Suite
 
-A unified machine learning dashboard built from scratch to detect phishing emails and classify fake news using Natural Language Processing (NLP) and structural metadata features.
+A unified machine learning dashboard built from scratch to detect phishing emails and classify fake news using Natural Language Processing (NLP), structural metadata features, and live NewsAPI scraping.
 
 ---
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Train the Models
-To download the datasets and train the classifiers for both modules:
+To download the datasets and train the classifiers:
 ```bash
 # Train Phishing Models
 python download_and_train.py
@@ -63,7 +63,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to access th
 
 ## 📊 Comparative Performance Results
 
-### Module 1: Phishing Email Detection (Stratified 20% split)
+### Part 1: Phishing Email Detection (Stratified 20% split)
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 | :--- | :---: | :---: | :---: | :---: |
@@ -72,7 +72,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to access th
 | **Multinomial Naive Bayes** | 95.17% | 93.31% | 94.46% | 93.88% |
 | **Random Forest** | 89.51% | **97.43%** | 75.24% | 84.91% |
 
-### Module 2: Fake News Classification (Stratified 20% split - Optimized)
+### Part 2: Fake News Classification (Stratified 20% split - Optimized)
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 | :--- | :---: | :---: | :---: | :---: |
