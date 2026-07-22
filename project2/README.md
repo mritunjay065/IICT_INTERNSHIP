@@ -95,7 +95,7 @@ Below are screenshots of the running Streamlit web application showing legitimat
 
 ### Live news analyzer 
 <img width="1890" height="871" alt="image" src="https://github.com/user-attachments/assets/64f45438-80ee-4b30-b6a3-c4bf4ca407d0" />
-" />
+
 
 ---
 
