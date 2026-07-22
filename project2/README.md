@@ -93,6 +93,10 @@ Below are screenshots of the running Streamlit web application showing legitimat
 #### Phishing Email Detection Warning:
 <img width="1901" height="862" alt="image" src="https://github.com/user-attachments/assets/a5c889fe-2e0d-4704-acbf-a691a4b38b0a" />
 
+### Live news analyzer 
+<img width="1890" height="871" alt="image" src="https://github.com/user-attachments/assets/64f45438-80ee-4b30-b6a3-c4bf4ca407d0" />
+
+
 ---
 
 ## 🌎 Live NewsAPI Integration
