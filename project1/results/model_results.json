@@ -1,0 +1,146 @@
+{
+    "KNN (Scratch)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 1.3589859008789062e-05,
+        "PredTime": 0.010131359100341797
+    },
+    "LogReg (Scratch)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 0.028960227966308594,
+        "PredTime": 9.703636169433594e-05
+    },
+    "RandomForest (Scratch)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 0.00429081916809082,
+        "PredTime": 0.001489877700805664
+    },
+    "NeuralNet (Scratch)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 0.23813557624816895,
+        "PredTime": 6.723403930664062e-05
+    },
+    "KNN (Sklearn)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 0.0008282661437988281,
+        "PredTime": 0.006345272064208984
+    },
+    "LogReg (Sklearn)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 0.0042498111724853516,
+        "PredTime": 0.00025010108947753906
+    },
+    "RandomForest (Sklearn)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 0.10335254669189453,
+        "PredTime": 0.005605459213256836
+    },
+    "NeuralNet (Sklearn)": {
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1-Score": 1.0,
+        "ConfusionMatrix": [
+            [
+                122,
+                0
+            ],
+            [
+                0,
+                118
+            ]
+        ],
+        "TrainTime": 0.19788789749145508,
+        "PredTime": 0.0003132820129394531
+    }
+}

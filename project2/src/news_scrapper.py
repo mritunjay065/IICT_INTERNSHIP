@@ -1,6 +1,6 @@
 import requests
 
-NEWS_API_KEY = "d9a9d8f9596e2894032f99c5ad39123f"
+NEWS_API_KEY = "e3c0922b09ad467fbdc24dc02babe42a"
 
 def fetch_live_news(query=None, category=None, country="us", max_results=10):
     """
