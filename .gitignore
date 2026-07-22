@@ -1,0 +1,19 @@
+# Ignore reports and PDFs (Keep them local only)
+*ieee_report.md
+*IEEE_Report.md
+*IEEE_Fake_News_Detection_Report.md
+*.pdf
+*report.md
+*Report.md
+
+# Ignore Python caches and temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore large datasets
+*.csv
+
+# Ignore model checkpoints (pkl)
+*.pkl
